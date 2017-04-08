@@ -1,0 +1,13 @@
+{
+  "development": {
+    "username": "alexa",
+    "password": "GahtQSSHTdwZdwr4",
+    "database": "alexa",
+    "host": "api.serversup.net",
+    "dialect": "mysql"
+  },
+  "production": {
+    "use_env_variable": "JAWSDB_URL",
+    "dialect": "mysql"
+  }
+}
